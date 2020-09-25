@@ -1,0 +1,2 @@
+rootProject.name='Practica4'
+include ':app', ':MPAndroidChart-v3.0.1'
